@@ -9,6 +9,7 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 * $2500 in ETH to EconomicsDesign.com for their work on explaining Handshake token economics and explainer video.
 * 50 in $UNI to HNSNetwork for their work on their independent block explorer.
 * 1000 in $HNS for the HNS Block #1 address mnenomic promotion and giveaway.
+* 1500 in $HNS to Brenna Sparks for her support and onboarding into Handshake for the adult community.
 * 2000 in $HNS to Brandon Dees for his various contributions around the community and to Bob Wallet.
 * 20 in $UNI each for Gautam and Rob at ShakeStats
 * 30 in $UNI to Alex Vela of Handshake Socks for various branded apparel and community growth efforts.
