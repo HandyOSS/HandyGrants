@@ -1,7 +1,7 @@
 # HandyGrants
 A historical breakdown of grants given by the HandyOSS developer organization treasury. Grants are given for works in progress, in a no-strings-attached manner, except for the eventual completion of the project or works. This is in an active effort to diversify the community, early through various creative and developer contributions to expand our utility and reach as a public chain protocol.
 
-🤝 [Submit a HandyGrant Proposal](https://github.com/HandyOSS/HandyGrants/discussions/1)
+🤝 [Submit a HandyGrant Proposal](https://github.com/HandyOSS/HandyGrants/discussions/1) <br>
 🐦 [Follow HandyOSS on Twitter](https://twitter.com/HNSOSS)
 
 ## Grant Recipients to Date
