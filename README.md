@@ -1,7 +1,7 @@
 # HandyGrants
 A historical breakdown of grants given by the HandyOSS developer organization treasury. Grants are given for works in progress, in a no-strings-attached manner, except for the eventual completion of the project or works. This is in an active effort to diversify the community, early through various creative and developer contributions to expand our utility and reach as a public chain protocol.
 
-## Disclaimer: Projects and grantees will only be added if they consent. Some grantees may opt not to be listed for their privacy and anonymity.
+## Disclaimer: Certain projects and grantees will only be added if they consent. Some grantees may opt not to be listed for their privacy and anonymity to protect their ability to actively contribute.
 
 🤝 [Submit a HandyGrant Proposal](https://github.com/HandyOSS/HandyGrants/discussions/1) <br>
 🐦 [Follow HandyOSS on Twitter](https://twitter.com/HNSOSS)
@@ -23,5 +23,5 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 * $2,500 in $ETH to Josh Terry for various dweb/handshake related TikTok educational vids.
 * 5,000 in $HNS to Zachary Fogg for HNS social giveaway.
 * 1,000 in $HNS to NetopWibby and Sulu for the HNSSearch social giveaway.
-* 2,000 in $HNS to Mike MIcheliini for HNSSearch social giveaway.
+* 2,000 in $HNS to Mike Micheliini for HNSSearch social giveaway.
 
