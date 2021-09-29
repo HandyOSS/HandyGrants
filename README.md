@@ -17,4 +17,5 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 * $2,500 in $ETH to Josh Terry for various dweb/handshake related TikTok educational vids.
 * 5,000 in $HNS to Zachary Fogg for HNS social giveaway.
 * 1,000 in $HNS to NetopWibby and Sulu for the HNSSearch social giveaway.
+* 2,000 in $HNS to Mike MIcheliini for HNSSearch social giveaway.
 
