@@ -8,7 +8,7 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
-* 50,000 in $DVPN staking grant to Rithvik Vibhu for his work on HTools building the Handshake Login and Identity Manager.
+* 100,000 in $DVPN staking grant to Rithvik Vibhu for his work on HTools building the Handshake Login and Identity Manager.
 * 21,0000 in $DVPN staking grant to @BLVKHVND dSports team to sponsor their growth and because gaming is dope.
 * 100,000 in $DVPN staking grant to @AndiR16 for building HNSSearch v2 LINDA.
 * 50,000 in $DVPN staking grant to @0xStefan for his work on Niami.io.
