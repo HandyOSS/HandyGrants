@@ -8,6 +8,8 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 7,000 in DVPN staking grant to Alex Vela for assistance with weekly editions of The Shake.
+* 25,000 in DVPN staking grant again to Rithvik Vibhu for his developer efforts around the HNS community.
 * 100,000 in $DVPN staking grant to Sebastion Rasor for his work on Hmail and other various projects.
 * 100,000 in $DVPN staking grant to Rithvik Vibhu for his work on HTools building the Handshake Login and Identity Manager.
 * 21,0000 in $DVPN staking grant to @BLVKHVND dSports team to sponsor their growth and because gaming is dope.
