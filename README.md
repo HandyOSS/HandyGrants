@@ -8,6 +8,17 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 75 in $HNS for HandyOSS Twitter video giveaway to various winners.
+* 777 in $HNS to Kurt Vonnegut for the HandyOSS Twitter 🤝 promotion to raise social awareness on HNS 
+* 700 in $HNS to Maurice Stolk for his work on the Rsvr.xyz landing page. 
+* 50,000 in $DVPN staking grant to Zach Brown from TheShake to support growth of their newsletter.
+* 10,000 in $DVPN staking great to Stephen Cropley (HeartBreaker eSports) HandyOSS sponsorship for experimentation.
+* 30,000 in $DVPN staking grant to Sajan for Agaamin Name Registrar for India's development.
+* 30,000 in $DVPN staking grant to Mark Smith from Namesake Domains to assist with development costs.
+* 30,000 in $DVPN staking grant for an additional add-on grant for HNSSearch development.
+* 300 in $HNS for the EconomicsDesign Twitter giveaway.
+* 500 in $HNS for the HNSSearch Twitter giveaway.
+* 10,000 in DVPN staking grant to Nik Rykov for his work on Shaked.xyz and the HNS Resolver Bridges.
 * 7,000 in DVPN staking grant to Alex Vela for assistance with weekly editions of The Shake.
 * 25,000 in DVPN staking grant again to Rithvik Vibhu for his developer efforts around the HNS community.
 * 100,000 in $DVPN staking grant to Sebastion Rasor for his work on Hmail and other various projects.
