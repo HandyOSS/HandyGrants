@@ -8,6 +8,7 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 100,000 in $DVPN for HNSChat to support their growth and creation of other Handshake related tools.
 * .12 in $ETH to Dakotah Taylor Norton for his work on a documentation portal idea for learning about HNS.
 * 75 in $HNS for HandyOSS Twitter video giveaway to various winners.
 * 777 in $HNS to Kurt Vonnegut for the HandyOSS Twitter 🤝 promotion to raise social awareness on HNS 
