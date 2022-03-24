@@ -8,6 +8,20 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 2500 in $HNS to Eskimo for implementing HIP2 payment support into HNSChat.
+* 100,000 in $DVPN staking grant to Pat Santiago for media design work for his essays and podcasts.
+* 333,333 in $DVPN staking grant to Luke Burns for his work on the HIP-R standard and hyperzone.
+* 250,000 in $DVPN staking grant to Alex Vela for his assistance with planning out ShakeCon.
+* 250,000 in $DVPN staking grant to Sajan from Agaamin to support to build out of his India based name registrar.
+* 100,000 in $DVPN staking grant to Andreas Renz again from HNSSearch/HNSFactory for his continued project releases.
+* 50,000 in $DVPN staking grant to Tim Courtney for him helping to plan the Bay Area Dweb meetups.
+* 50,000 in $DVPN staking grant to Paul Webb for his work on the NeueNet Registry and Beachfront registrar.
+* 50,000 in $DVPN staking grant to Hammer (@PCFreak30) to subsidize development work for his LumeWeb project.
+* 777 in $USD to Nole from .TX domain to subsidize his HNS Austin meetups.
+* 40,000 in $DVPN staking grant to Rithvik for his dev work in the community and on continualyl on HTools.
+* 250 in $USDC to Eskimo to assist with the rapid buildout of HNSChat features for the community.
+* 30,000 in $DVPN staking grant for Matthew Zipkin for his Handshake mempool visualizer and prior HSD contributions.
+* 50,000 in $DVPN staking grant for Befranz to produce more regular Handshake data for the community.
 * 20,000 in $DVPN staking grant for Tetrashapes for their upcoming Handshake mobile wallet.
 * 50,000 in $DVPN staking grant for HNSChat for further improvements to their chat platform.
 * 77,777 in $DVPN staking grant for Niami for their integration with HNSChat
