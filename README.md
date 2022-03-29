@@ -8,6 +8,8 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 75,000 in $DVPN staking grant to Maurice Stolk for building the HNSChat Google Chrome Extension, and for his work on HandyTab.
+* 50,000 in $DVPN staking grant to Eskimo (Jordan Koch) to assist with documentation writing for HNSChat.
 * 2500 in $HNS to Eskimo for implementing HIP2 payment support into HNSChat.
 * 100,000 in $DVPN staking grant to Pat Santiago for media design work for his essays and podcasts.
 * 333,333 in $DVPN staking grant to Luke Burns for his work on the HIP-R standard and hyperzone.
