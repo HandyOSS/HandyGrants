@@ -8,6 +8,9 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+
+* 100,000 in $DVPN staking grant, plus and additional 3333.33 $HNS to Terrance Robotham from HSHub to support upcoming features and improvements.
+* 100,000 in $DVPN staking grant to @BlockDomains (BlockDomains/) for his work in the community, and future useful HNS data he will provide publicly.
 * 75,000 in $DVPN staking grant to Maurice Stolk for building the HNSChat Google Chrome Extension, and for his work on HandyTab.
 * 50,000 in $DVPN staking grant to Eskimo (Jordan Koch) to assist with documentation writing for HNSChat.
 * 2500 in $HNS to Eskimo for implementing HIP2 payment support into HNSChat.
