@@ -8,7 +8,15 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
-
+* $500 in $ETH to Befranz to setup two HSD seed nodes for a year.
+* 66,666 in $DVPN to Skunk-Ink (Murray Crawford) for his work on his HSD python wrapper.
+* 50,000 in $DVPN to Miguel Gargallo once again to support his work on Pencil Domains and building open source community tooling.
+* 50,000 in $DVPN to BlockDomains on Twitter for helping to choose the winner for the HNS community chosen developer grant to Nathan Woodburn.
+* 10,000 in $HNS to Nathan Woodburn for his work on the HNS hosting site Hosting.Wdbrn/ chosen by the Handshake Community on Twitter.
+* 77,777 in $DVPN staking grant to Derrick (PCFreak30) for his continued work on LumeWeb and for learning more about the Handshake developer ecosystem. 
+* $500 in $USD to Zach Brown to subsidize ad buying for The Shake.
+* 3,333 in $HNS to Miguel Gargallo for his work on Pencil Domains.
+* 50,000 in $DVPN staking grant to Miguel Gargallo for his work on Pencil Domains.
 * 100,000 in $DVPN staking grant, plus and additional 3333.33 $HNS to Terrance Robotham from HSHub to support upcoming features and improvements.
 * 100,000 in $DVPN staking grant to @BlockDomains (BlockDomains/) for his work in the community, and future useful HNS data he will provide publicly.
 * 75,000 in $DVPN staking grant to Maurice Stolk for building the HNSChat Google Chrome Extension, and for his work on HandyTab.
