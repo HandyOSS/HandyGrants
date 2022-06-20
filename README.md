@@ -8,6 +8,7 @@ A historical breakdown of grants given by the HandyOSS developer organization tr
 
 ## Grant Recipients to Date
 
+* 1,000,000 in $DVPN staking grant to Stefan for continued improvements to Niami.
 * $500 in $ETH to Befranz to setup two HSD seed nodes for a year.
 * 66,666 in $DVPN to Skunk-Ink (Murray Crawford) for his work on his HSD python wrapper.
 * 50,000 in $DVPN to Miguel Gargallo once again to support his work on Pencil Domains and building open source community tooling.
